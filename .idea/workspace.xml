@@ -1,7 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df13aaa9-0cb2-46d0-9dec-756b2fef1bf1" name="Default Changelist" comment="" />
+    <list default="true" id="df13aaa9-0cb2-46d0-9dec-756b2fef1bf1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/SonarTest1/src/Abstraction/AbstractionRecipe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SonarTest1/src/Collections/Sets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SonarTest1/src/Practice/Enumreview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SonarTest1/src/Practice/executorServiceReview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SonarTest1/src/Practice/lambdareview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SonarTest1/src/Practice/singleReview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SonarTest1/src/Review1/Color.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SonarTest1/src/Review1/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SonarTest1/src/Review1/lambdaexp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SonarTest1/src/interfaces/gamingconsole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SonarTest1/src/threads/ExecutorServiceRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SonarTest1/src/threads/ThreadBasicRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menu-mvc copy/src/main/resources/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menu-mvc copy/target/classes/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menu-mvc copy/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menu-mvc copy/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menu-mvc copy/target/sonar/.sonar_lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menu-mvc copy/target/sonar/report-task.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menu-mvc copy/target/sonar/ucfg2/java/all.typedefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menu-mvc copy/target/sonar/ucfg2/java/ucfg_0.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menu-mvc copy/target/sonar/ucfg2/java/ucfg_1.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menu-mvc copy/target/sonar/ucfg2/java/ucfg_10.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menu-mvc copy/target/sonar/ucfg2/java/ucfg_2.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menu-mvc copy/target/sonar/ucfg2/java/ucfg_3.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menu-mvc copy/target/sonar/ucfg2/java/ucfg_4.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menu-mvc copy/target/sonar/ucfg2/java/ucfg_5.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menu-mvc copy/target/sonar/ucfg2/java/ucfg_6.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menu-mvc copy/target/sonar/ucfg2/java/ucfg_7.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menu-mvc copy/target/sonar/ucfg2/java/ucfg_8.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menu-mvc copy/target/sonar/ucfg2/java/ucfg_9.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/production/SonarTest1/Abstraction/AbstractionRecipe.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/production/SonarTest1/Abstraction/RecipeRunner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/production/SonarTest1/Abstraction/RecipewMicrowave.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/production/SonarTest1/Collections/Sets.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/production/SonarTest1/Practice/Enumreview.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/production/SonarTest1/Practice/lambdareview$review.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/production/SonarTest1/Practice/lambdareview.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/production/SonarTest1/Practice/singleReview.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/production/SonarTest1/Practice/test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/production/SonarTest1/Review1/Color.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/production/SonarTest1/Review1/Print.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/production/SonarTest1/Review1/Singleton.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/production/SonarTest1/Review1/lambdaexp$Game.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/production/SonarTest1/Review1/lambdaexp$Series.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/production/SonarTest1/Review1/lambdaexp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/production/SonarTest1/interfaces/MarioGame.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/production/SonarTest1/interfaces/gameRunner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/production/SonarTest1/interfaces/gamingconsole.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/production/SonarTest1/threads/ExecutorServiceRunner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/production/SonarTest1/threads/Task1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/production/SonarTest1/threads/Task2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/production/SonarTest1/threads/ThreadBasicRunner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SonarTest1/src/Review1/Review1.java" beforeDir="false" afterPath="$PROJECT_DIR$/SonarTest1/src/Review1/Review1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/menu-mvc copy/target/classes/com/revature/beans/Order.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/menu-mvc copy/target/classes/com/revature/controllers/OrderController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/menu-mvc copy/target/classes/com/revature/repository/OrderRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/menu-mvc copy/target/classes/com/revature/service/OrderService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/menu-mvc copy/target/m2e-wtp/web-resources/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/menu-mvc copy/target/m2e-wtp/web-resources/META-INF/maven/com.revature/menu-mvc/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/menu-mvc copy/target/m2e-wtp/web-resources/META-INF/maven/com.revature/menu-mvc/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/SonarTest1/Collections/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/production/SonarTest1/Collections/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/SonarTest1/Collections/StudentCollectionRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/production/SonarTest1/Collections/StudentCollectionRunner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/SonarTest1/Review1/Review1.class" beforeDir="false" afterPath="$PROJECT_DIR$/production/SonarTest1/Review1/Review1.class" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,6 +76,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -19,8 +86,11 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1PZSgT48tKyfpRHZ3UHYN8DPVmc" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -48,13 +118,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StudentCollectionRunner">
-    <configuration name="Lists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Collections.Lists" />
+  <component name="RunManager" selected="Application.lambdaexp">
+    <configuration name="RecipeRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Abstraction.RecipeRunner" />
       <module name="SonarTest1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Collections.*" />
+          <option name="PATTERN" value="Abstraction.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -62,12 +132,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MoreList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Collections.MoreList" />
+    <configuration name="ThreadBasicRunner" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="threads.ThreadBasicRunner" />
       <module name="SonarTest1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Collections.*" />
+          <option name="PATTERN" value="threads.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,12 +145,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentCollectionRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Collections.StudentCollectionRunner" />
+    <configuration name="gameRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interfaces.gameRunner" />
       <module name="SonarTest1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Collections.*" />
+          <option name="PATTERN" value="interfaces.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lambdaexp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Review1.lambdaexp" />
+      <module name="SonarTest1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Review1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lambdareview" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.lambdareview" />
+      <module name="SonarTest1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.test" />
+      <module name="SonarTest1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,9 +199,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StudentCollectionRunner" />
-        <item itemvalue="Application.MoreList" />
-        <item itemvalue="Application.Lists" />
+        <item itemvalue="Application.lambdaexp" />
+        <item itemvalue="Application.lambdareview" />
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.gameRunner" />
+        <item itemvalue="Application.RecipeRunner" />
       </list>
     </recent_temporary>
   </component>
@@ -106,7 +217,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1566080236384</updated>
-      <workItem from="1566080239291" duration="4386000" />
+      <workItem from="1566080239291" duration="11464000" />
+      <workItem from="1566166186638" duration="246000" />
+      <workItem from="1566166458109" duration="10977000" />
     </task>
     <servers />
   </component>
@@ -118,10 +231,15 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

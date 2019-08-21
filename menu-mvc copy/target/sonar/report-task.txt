@@ -1,0 +1,7 @@
+organization=tiffwest520
+projectKey=Tiffwest520_SonarTest
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.184
+dashboardUrl=https://sonarcloud.io/dashboard?id=Tiffwest520_SonarTest
+ceTaskId=AWyiLBNDqSMqIF6IvpDI
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AWyiLBNDqSMqIF6IvpDI
